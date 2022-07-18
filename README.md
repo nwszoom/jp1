@@ -1,10 +1,13 @@
 # jp1
 test1
 
- 
-tetst 2 
+tetst 4
+tetst 2
 xx1
-xx conflict
+>>  confx  =  xx conflict
 
 124
- 
+
+from intelliJ   = sdf 334
+
+jax box from atom 1
