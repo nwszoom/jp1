@@ -4,7 +4,7 @@ test1
  
 tetst 2 
 xx1
-xx conflict
+>>  confx  =  xx conflict
 
 124
 
